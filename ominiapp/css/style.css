@@ -1,0 +1,38 @@
+
+header{ background-color: red; width:1100px;}
+.clear{clear: both;}
+label{ font-size: 20px;}
+.logodiv{ float: left; padding: 20px 20px 20px 20px; width: 200px;}
+.logodiv a { text-decoration: none;}
+.logodiv a span{color: #fff; font-size: 24px; margin-left: 34px;}
+#nav1{ float: left; margin-left: 100px; padding-top:50px; }
+#nav1 a{border-radius: 10px;text-decoration: none; border: 1px solid #fff; color: #fff; width: 150px;text-align: center; display: inline-block;padding-top: 10px; padding-bottom: 10px;}
+#nav1 a:active{ background-color: #000;}
+#nav1 a:visited{ background-color: #000;}
+#homepage{ border: 1px solid; border-radius: 10px; min-height: 200px;width:1100px;}
+.fix{ padding: 10px;}
+.common{  width: 200px; padding: 10px 0px 10px 10px; border-radius: 10px; font-size: 20px;outline: none;}
+#find{ margin-left: 20px;}
+#go{width: 50px;}
+#page1{ min-height: 200px; background-color: #000; padding: 20px 10px 10px 20px; color: #fff;}
+figure{ float: left;}
+#container{
+	width:1000px;
+	border: 1px solid black;
+	border-radius: 5px;
+	border-left: none;
+	border-right: none;
+	overflow: hidden;
+
+}
+#image-container{
+	width: 3500px;
+}
+#page1{ }
+.imagemodifier{ width: 150px; height: 150px}
+#page2{ padding: 20px;display: none; border: 2px solid; border-radius: 5px;}
+.newdiv{width:200px;
+height:200px; padding:20px;}
+#nav2{ list-style-type:none;
+float:left}
+#nav2 li{ float:left; padding:20px;}

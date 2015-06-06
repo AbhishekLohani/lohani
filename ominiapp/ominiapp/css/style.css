@@ -1,0 +1,56 @@
+body{font-family:Bangers; padding-left: 100px;}
+header{ background-color: red; width:1100px;}
+.clear{clear: both;}
+label{ font-size: 20px;}
+.logodiv{ float: left; padding: 20px 20px 20px 20px; width: 200px;}
+.logodiv a { text-decoration: none;}
+.logodiv a span{color: #fff; font-size: 24px; margin-left: 34px;}
+#nav1{ float: left; margin-left: 100px; padding-top:50px; }
+#nav1 a{border-radius: 10px;text-decoration: none; border: 1px solid #fff; color: #fff; width: 150px;text-align: center; display: inline-block;padding-top: 10px; padding-bottom: 10px; font-size: 24px;margin-right: 30px;}
+#nav1 a:active{ background-color: #000;}
+#nav1 a:visited{ background-color: #000;}
+#home{ border: 1px solid; border-radius: 10px; min-height: 200px;width:1100px;}
+.fix{ padding: 10px;}
+.common{  width: 200px; padding: 10px 0px 10px 10px; border-radius: 10px; font-size: 20px;outline: none;}
+#find{ margin-left: 20px;}
+#go{width: 50px;}
+#page1{ min-height: 200px; background-color: #000; padding: 20px 10px 10px 20px; color: #fff; font-size: 24px;}
+figure{ float: left;}
+#container{
+	width:1000px;
+	border: 1px solid black;
+	border-radius: 5px;
+	border-left: none;
+	border-right: none;
+	overflow: hidden;
+
+}
+#image-container{
+	width: 3500px;
+}
+.imagemodifier{ width: 150px; height: 150px}
+.commondiv{padding: 20px 10px 10px 20px;display: none; border: 2px solid; border-radius: 5px;}
+.newdiv{width:200px;
+height:200px; padding:20px;}
+#nav2{ list-style-type:none;
+float:left;}
+#nav2 li{ float:left; padding:20px; border-right: 1px solid}
+#nav2 li a{text-decoration: none; color: #000; margin: 0px 50px 0px 50px; font-size: 20px; color: #0033CC;} 
+#about{ display: none; width: 1100px;}
+#contact{ display: none;width: 1100px;}
+#plan{ display: none; width: 1100px}
+#home{ display: none; width: 1100px;}
+.new{float: left; ;width: 270px;font-size: 20px; color:#660066;margin:0px 20px 20px 0px; padding: 20px 20px 20px 40px; text-align: center;}
+.new img{margin: 10px 10px 10px 10px; height: 200px; width: 200px; }
+.newpage1{ float: left; margin: 20px 20px 0px 20px;}
+#container{ overflow: hidden; width: 1000px;background: #CCFF33;padding: 40px 20px 40px 20px; margin-top: 100px;}
+.sliderclass{margin-right: 30px; height: 100px;}
+#page2{ background-color: #CC6600; display: none;}
+#page3{ padding: 20px 50px 20px 50px; background-color: #FFFF99; display: none;}
+.det-div{ float: left; font-size: 20px;}
+.det-div p{ margin-left: 50px; color: #993333; font-size: 24px;}
+.det-div span{ margin-left: 50px;font-size: 20px; color: #006666;}
+.revdiv{ margin-left: 10px; font-size: 18px; color: #993366;}
+.reviewhead{margin-left: 10px;font-size: 24px; color: #0099FF;}
+footer{ background-color: #669999;width: 1100px;}
+button{ background-color:#33CC33; color: #fff; }

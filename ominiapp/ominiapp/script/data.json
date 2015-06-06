@@ -1,0 +1,426 @@
+{
+    "fiction": [
+        {
+            "image": "assets/fiction/f1.jpg",
+            "title": "f1",
+            "author": "fa1",
+            "description": "fd1",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 4
+        }  ,  
+        {
+            "image": "assets/fiction/f2.png",
+            "title": "f2",
+            "author": "fa2",
+            "description": "df2",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 3
+        } , 
+{
+            "image": "assets/fiction/f3.png",
+            "title": "f3",
+            "author": "fa3",
+            "description": "fd3",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 2
+        } ,
+        {
+            "image": "assets/fiction/f4.png",
+            "title": "f4",
+            "author": "fa4",
+            "description": "fd4",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 3
+        } ,
+        {
+            "image": "assets/fiction/f5.png",
+            "title": "f5",
+            "author": "fa5",
+            "description": "fd5",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 4
+        } 
+          ],
+
+
+
+
+
+
+    "romance": [
+        {
+            "image": "assets/romance/r1.jpg",
+            "title": "r1",
+            "author": "ra1",
+            "description": "rd1",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 3
+        }  ,  
+        {
+            "image": "assets/romance/r2.jpg",
+            "title": "r2",
+            "author": "ra2",
+            "description": "rd2",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 2
+        } , 
+{
+            "image": "assets/romance/r3.png",
+            "title": "r3",
+            "author": "ra3",
+            "description": "rd3",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 5
+        } ,
+        {
+            "image": "assets/romance/r4.png",
+            "title": "r4",
+            "author": "ra4",
+            "description": "rd4",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 3
+        } ,
+        {
+            "image": "assets/romance/r5.png",
+            "title": "r5",
+            "author": "ra5",
+            "description": "rd5",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 4
+        } 
+          ],
+
+
+
+
+
+
+    "biography": [
+        {
+            "image": "assets/biography and autobiography/b1.png",
+            "title": "b1",
+            "author": "ba1",
+            "description": "bd1",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 3
+        }  ,  
+        {
+            "image": "assets/biography and autobiography/b2.jpg",
+            "title": "b2",
+            "author": "ba2",
+            "description": "bd2",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 4
+        } , 
+{
+            "image": "assets/biography and autobiography/b3.png",
+            "title": "b3",
+            "author": "ba3",
+            "description": "bd3",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 3
+        } ,
+        {
+            "image": "assets/biography and autobiography/b4.png",
+            "title": "b4",
+            "author": "ba4",
+            "description": "bd4",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 2
+        } ,
+        {
+            "image": "assets/biography and autobiography/b5.jpg",
+            "title": "b5",
+            "author": "ba5",
+            "description": "bd5",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 3
+        } 
+          ],
+
+
+
+
+
+    "business": [
+        {
+            "image": "assets/business/bs1.png",
+            "title": "bs1",
+            "author": "bsa1",
+            "description": "bsd1",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 3
+        }  ,  
+        {
+            "image":"assets/business/bs2.png",
+            "title": "bs2",
+            "author": "bsa2",
+            "description": "bsd2",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 3
+        } , 
+{
+            "image": "assets/business/bs3.png",
+            "title": "bs3",
+            "author": "bsa3",
+            "description": "dbs3",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 5
+        } ,
+        {
+            "image": "assets/business/bs4.png",
+            "title": "bs4",
+            "author": "bsa4",
+            "description": "bsd4",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 3
+        } ,
+        {
+            "image": "assets/business/bs5.png",
+            "title": "bs5",
+            "author": "bsa5",
+            "description": "bsd5",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 4
+        } 
+          ],
+
+
+
+
+    "cooking": [
+        {
+            "image": "assets/cooking/c1.png",
+            "title": "c1",
+            "author": "ca1",
+            "description": "cd1",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 3
+        }  ,  
+        {
+            "image": "assets/cooking/c2.png",
+            "title": "c2",
+            "author": "ca2",
+            "description": "cd2",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 5
+        } , 
+{
+            "image": "assets/cooking/c3.png",
+            "title": "c3",
+            "author": "ca3",
+            "description": "cd3",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 2
+        } ,
+        {
+            "image":"assets/cooking/c4.png",
+            "title": "c4",
+            "author": "ca4",
+            "description": "cd4",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 3
+        } ,
+        {
+            "image":"assets/cooking/c5.png",
+            "title": "c5",
+            "author": "ca5",
+            "description": "cd5",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 2
+        } 
+          ],
+
+          "mystery": [
+        {
+            "image": "assets/mystery/m1.jpg",
+            "title": "m1",
+            "author": "ma1",
+            "description": "md1",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 3
+        }  ,  
+        {
+            "image": "assets/mystery/m2.png",
+            "title": "m2",
+            "author": "ma2",
+            "description": "md2",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 2
+        } , 
+{
+            "image": "assets/mystery/m3.png",
+            "title": "m3",
+            "author": "ma3",
+            "description": "md3",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 3
+        } ,
+        {
+            "image":"assets/mystery/m4.png",
+            "title": "m4",
+            "author": "ma4",
+            "description": "md4",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 4
+        } ,
+        {
+            "image":"assets/mystery/m5.png",
+            "title": "m5",
+            "author": "ma5",
+            "description": "md5",
+            "review": [
+                "kdfhgkdhgdkhgdlgh",
+                "fgfgggg",
+                "fffffkjjfjjf",
+                "ihfhfhfffdfdf"
+            ],
+            "rating": 2
+        } 
+          ]
+}
